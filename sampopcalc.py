@@ -15,3 +15,7 @@ elif operation == "**":
  print(" {} ** {} = {}".format (num1, num2, num1 ** num2))
 else:
  print("x")
+
+ #this code had refused to work at first and my editor couldnt see the err
+ #i learnt after a while my error was the whitespaces when declaring operations
+ #operation == "-", no spaces around the sign
