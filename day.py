@@ -1,2 +1,2 @@
-dayk = "Tueday"
-print(f"Today is {dayk}")
+dayk = "Tuesday"
+print( "Today is {}".format(dayk))
